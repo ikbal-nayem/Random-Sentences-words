@@ -1,5 +1,5 @@
 # Random-Sentences-&-words
-### Put your text and get random sentence and words.
+##### A simple usefull application to find word list and sentence list used in a movie script or any other large file text.
 
 > Run `python main.py`
 ##### Or,
